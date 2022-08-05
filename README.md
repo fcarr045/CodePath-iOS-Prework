@@ -26,3 +26,6 @@ CodePath-iOS PreWork Project
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [ ] c. If the text field is empty, update label with default text string.
    - [ ] d. The keyboard is dismissed after the button has been tapped.
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98613964/183095698-335c7061-3380-4622-a797-a686ae1c20e5.gif)
